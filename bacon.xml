@@ -2,13 +2,13 @@
 <manifest>
 
 <!-- Device tree -->
-  <project  name="Feinzer/android_device_oneplus_bacon"
+  <project  name="sultancoding/android_device_oneplus_bacon"
             path="device/oneplus/bacon"
-            remote="github" revision="ten" />
+            remote="github" revision="havoc3" />
 
-  <project  name="Feinzer/android_device_oppo_msm8974-common"
+  <project  name="sultancoding/android_device_oppo_msm8974-common"
             path="device/oppo/msm8974-common"
-            remote="github" revision="ten" />
+            remote="github" revision="havoc3" />
 
 <!-- Vendor -->
   <project  name="TheMuppets/proprietary_vendor_oneplus"
